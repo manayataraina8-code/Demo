@@ -1,4 +1,4 @@
 # Demo
 first git repository
 <br>
-Author: Manayata raina
+Author: Manayata raina(cummins)
